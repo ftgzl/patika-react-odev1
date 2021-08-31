@@ -1,0 +1,25 @@
+{
+  "name": "patika-react-odev1",
+  "version": "1.0.0",
+  "description": "React intro",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftgzl/patika-react-odev1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftgzl/patika-react-odev1/issues"
+  },
+  "homepage": "https://github.com/ftgzl/patika-react-odev1#readme"
+}
